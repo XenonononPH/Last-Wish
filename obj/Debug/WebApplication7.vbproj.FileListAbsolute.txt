@@ -1,0 +1,8 @@
+c:\users\sean\documents\visual studio 2012\Projects\WebApplication7\WebApplication7\bin\WebApplication7.dll
+c:\users\sean\documents\visual studio 2012\Projects\WebApplication7\WebApplication7\bin\WebApplication7.pdb
+c:\users\sean\documents\visual studio 2012\Projects\WebApplication7\WebApplication7\bin\WebApplication7.xml
+c:\users\sean\documents\visual studio 2012\Projects\WebApplication7\WebApplication7\obj\Debug\WebApplication7.Resources.resources
+c:\users\sean\documents\visual studio 2012\Projects\WebApplication7\WebApplication7\obj\Debug\WebApplication7.vbproj.GenerateResource.Cache
+c:\users\sean\documents\visual studio 2012\Projects\WebApplication7\WebApplication7\obj\Debug\WebApplication7.dll
+c:\users\sean\documents\visual studio 2012\Projects\WebApplication7\WebApplication7\obj\Debug\WebApplication7.xml
+c:\users\sean\documents\visual studio 2012\Projects\WebApplication7\WebApplication7\obj\Debug\WebApplication7.pdb
